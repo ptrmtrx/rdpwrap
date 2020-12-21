@@ -15,3 +15,10 @@ __history/
 # MSI local stuff
 *.wixobj
 *.wixpdb
+
+# VS local stuff
+.vs/
+
+# Build temporary directories
+/src-x86-x64-Fusix/x64/Release
+/src-x86-x64-Fusix/x64/Debug
