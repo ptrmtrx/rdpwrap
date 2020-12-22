@@ -116,7 +116,6 @@
       <SDLCheck>true</SDLCheck>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <WarningLevel>Level3</WarningLevel>
-      <StructMemberAlignment>1Byte</StructMemberAlignment>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
     </ClCompile>
     <Link>
@@ -141,7 +140,6 @@
       <SDLCheck>true</SDLCheck>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <WarningLevel>Level3</WarningLevel>
-      <StructMemberAlignment>1Byte</StructMemberAlignment>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
     </ClCompile>
     <Link>
